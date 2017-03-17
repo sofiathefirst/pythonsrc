@@ -1,0 +1,259 @@
+[2015-12-29 13:49:05,260] - main_cnsnwight_roc_cmd.linktest1file.47 - DEBUG - snets read finished....shot 0 cn roc 
+[2015-12-29 14:39:27,296] - main_cnsnwight_roc_cmd.getbestthreshold.30 - INFO - tpr,fpr,a*************
+[2015-12-29 14:39:27,296] - main_cnsnwight_roc_cmd.getbestthreshold.31 - INFO - [  1.23456790e-04   2.46913580e-03   2.46913580e-03 ...,   4.52592593e-01
+   4.54567901e-01   1.00000000e+00]
+[2015-12-29 14:39:27,297] - main_cnsnwight_roc_cmd.getbestthreshold.32 - INFO - [  0.00000000e+00   0.00000000e+00   7.40230804e-08 ...,   2.33520612e-03
+   2.41729771e-03   1.00000000e+00]
+[2015-12-29 14:39:27,298] - main_cnsnwight_roc_cmd.getbestthreshold.35 - INFO - [  1.23456790e-05   2.46913580e-04   2.46173349e-04 ...,   2.19071981e-02
+   2.12838130e-02  -9.90000000e+00]
+[2015-12-29 14:39:27,298] - main_cnsnwight_roc_cmd.getbestthreshold.36 - INFO - tpr,fpr,a*************
+[2015-12-29 14:39:40,243] - main_cnsnwight_roc_cmd.linktest1file.90 - INFO - (array([ 0.99962035,  0.19131554]), array([ 0.99906946,  0.36716049]), array([ 0.99934483,  0.25155424]), array([13509300,     8100]))
+[2015-12-29 14:39:40,243] - main_cnsnwight_roc_cmd.linktest1file.91 - INFO - cn myth0.51389834
+[2015-12-29 14:39:40,244] - main_cnsnwight_roc_cmd.linktest1file.92 - INFO - cn f10.25155424
+[2015-12-29 14:39:40,244] - main_cnsnwight_roc_cmd.linktest1file.93 - INFO - ******************
+
+
+[2015-12-29 14:39:53,219] - main_cnsnwight_roc_cmd.linktest1file.90 - INFO - (array([ 0.9996283 ,  0.17945732]), array([ 0.99895687,  0.38049383]), array([ 0.99929247,  0.243887  ]), array([13509300,     8100]))
+[2015-12-29 14:39:53,220] - main_cnsnwight_roc_cmd.linktest1file.91 - INFO - cn myth0.48089835
+[2015-12-29 14:39:53,220] - main_cnsnwight_roc_cmd.linktest1file.92 - INFO - cn f10.24388700
+[2015-12-29 14:39:53,220] - main_cnsnwight_roc_cmd.linktest1file.93 - INFO - ******************
+
+
+[2015-12-29 14:40:06,227] - main_cnsnwight_roc_cmd.linktest1file.90 - INFO - (array([ 0.99963367,  0.16956896]), array([ 0.99885627,  0.38950617]), array([ 0.99924482,  0.23627649]), array([13509300,     8100]))
+[2015-12-29 14:40:06,227] - main_cnsnwight_roc_cmd.linktest1file.91 - INFO - cn myth0.45511961
+[2015-12-29 14:40:06,227] - main_cnsnwight_roc_cmd.linktest1file.92 - INFO - cn f10.23627649
+[2015-12-29 14:40:06,227] - main_cnsnwight_roc_cmd.linktest1file.93 - INFO - ******************
+
+
+[2015-12-29 14:40:19,195] - main_cnsnwight_roc_cmd.linktest1file.90 - INFO - (array([ 0.99963941,  0.16182801]), array([ 0.99876048,  0.3991358 ]), array([ 0.99919975,  0.23028706]), array([13509300,     8100]))
+[2015-12-29 14:40:19,195] - main_cnsnwight_roc_cmd.linktest1file.91 - INFO - cn myth0.43429448
+[2015-12-29 14:40:19,195] - main_cnsnwight_roc_cmd.linktest1file.92 - INFO - cn f10.23028706
+[2015-12-29 14:40:19,195] - main_cnsnwight_roc_cmd.linktest1file.93 - INFO - ******************
+
+
+[2015-12-29 14:40:23,239] - main_cnsnwight_roc_cmd.getbestthreshold.30 - INFO - tpr,fpr,a*************
+[2015-12-29 14:40:23,240] - main_cnsnwight_roc_cmd.getbestthreshold.31 - INFO - [  1.23456790e-04   6.17283951e-04   6.17283951e-04 ...,   4.22962963e-01
+   4.54567901e-01   1.00000000e+00]
+[2015-12-29 14:40:23,241] - main_cnsnwight_roc_cmd.getbestthreshold.32 - INFO - [  0.00000000e+00   0.00000000e+00   7.40230804e-08 ...,   2.30700332e-03
+   2.41729771e-03   1.00000000e+00]
+[2015-12-29 14:40:23,241] - main_cnsnwight_roc_cmd.getbestthreshold.35 - INFO - [  1.23456790e-05   6.17283951e-05   6.09881643e-05 ...,   1.92262631e-02
+   2.12838130e-02  -9.90000000e+00]
+[2015-12-29 14:40:23,241] - main_cnsnwight_roc_cmd.getbestthreshold.36 - INFO - tpr,fpr,a*************
+[2015-12-29 14:40:36,195] - main_cnsnwight_roc_cmd.linktest1file.101 - INFO - (array([ 0.99955028,  0.12989176]), array([ 0.9989944 ,  0.25037037]), array([ 0.99927226,  0.17104542]), array([13509300,     8100]))
+[2015-12-29 14:40:36,195] - main_cnsnwight_roc_cmd.linktest1file.102 - INFO - cn_node_weight myth0.10596430
+[2015-12-29 14:40:36,195] - main_cnsnwight_roc_cmd.linktest1file.103 - INFO - cn_node_weight f10.17104542
+[2015-12-29 14:40:36,196] - main_cnsnwight_roc_cmd.linktest1file.104 - INFO - ******************
+
+
+[2015-12-29 14:40:49,161] - main_cnsnwight_roc_cmd.linktest1file.101 - INFO - (array([ 0.99962079,  0.09538108]), array([ 0.99790367,  0.36864198]), array([ 0.99876149,  0.15155053]), array([13509300,     8100]))
+[2015-12-29 14:40:49,162] - main_cnsnwight_roc_cmd.linktest1file.102 - INFO - cn_node_weight myth0.05861650
+[2015-12-29 14:40:49,162] - main_cnsnwight_roc_cmd.linktest1file.103 - INFO - cn_node_weight f10.15155053
+[2015-12-29 14:40:49,162] - main_cnsnwight_roc_cmd.linktest1file.104 - INFO - ******************
+
+
+[2015-12-29 14:41:02,133] - main_cnsnwight_roc_cmd.linktest1file.101 - INFO - (array([ 0.99965334,  0.09904024]), array([ 0.997693  ,  0.42296296]), array([ 0.9986722 ,  0.16049845]), array([13509300,     8100]))
+[2015-12-29 14:41:02,133] - main_cnsnwight_roc_cmd.linktest1file.102 - INFO - cn_node_weight myth0.05444132
+[2015-12-29 14:41:02,133] - main_cnsnwight_roc_cmd.linktest1file.103 - INFO - cn_node_weight f10.16049845
+[2015-12-29 14:41:02,133] - main_cnsnwight_roc_cmd.linktest1file.104 - INFO - ******************
+
+
+[2015-12-29 14:41:15,094] - main_cnsnwight_roc_cmd.linktest1file.101 - INFO - (array([ 0.99967228,  0.10132644]), array([ 0.9975827,  0.4545679]), array([ 0.9986264 ,  0.16571403]), array([13509300,     8100]))
+[2015-12-29 14:41:15,094] - main_cnsnwight_roc_cmd.linktest1file.102 - INFO - cn_node_weight myth0.05152298
+[2015-12-29 14:41:15,094] - main_cnsnwight_roc_cmd.linktest1file.103 - INFO - cn_node_weight f10.16571403
+[2015-12-29 14:41:15,094] - main_cnsnwight_roc_cmd.linktest1file.104 - INFO - ******************
+
+
+[2015-12-29 14:41:19,181] - main_cnsnwight_roc_cmd.getbestthreshold.30 - INFO - tpr,fpr,a*************
+[2015-12-29 14:41:19,182] - main_cnsnwight_roc_cmd.getbestthreshold.31 - INFO - [  1.23456790e-04   4.93827160e-04   4.93827160e-04 ...,   4.52592593e-01
+   4.54567901e-01   1.00000000e+00]
+[2015-12-29 14:41:19,183] - main_cnsnwight_roc_cmd.getbestthreshold.32 - INFO - [  0.00000000e+00   0.00000000e+00   7.40230804e-08 ...,   2.33520612e-03
+   2.41729771e-03   1.00000000e+00]
+[2015-12-29 14:41:19,183] - main_cnsnwight_roc_cmd.getbestthreshold.35 - INFO - [  1.23456790e-05   4.93827160e-05   4.86424852e-05 ...,   2.19071981e-02
+   2.12838130e-02  -9.90000000e+00]
+[2015-12-29 14:41:19,183] - main_cnsnwight_roc_cmd.getbestthreshold.36 - INFO - tpr,fpr,a*************
+[2015-12-29 14:41:32,205] - main_cnsnwight_roc_cmd.linktest1file.112 - INFO - (array([ 0.99963528,  0.16360266]), array([ 0.99879772,  0.39222222]), array([ 0.99921632,  0.23089502]), array([13509300,     8100]))
+[2015-12-29 14:41:32,205] - main_cnsnwight_roc_cmd.linktest1file.113 - INFO - cn_node_weight2 myth2.03152390
+[2015-12-29 14:41:32,205] - main_cnsnwight_roc_cmd.linktest1file.114 - INFO - cn_node_weight2 f10.23089502
+[2015-12-29 14:41:32,205] - main_cnsnwight_roc_cmd.linktest1file.115 - INFO - ******************
+
+
+[2015-12-29 14:41:45,254] - main_cnsnwight_roc_cmd.linktest1file.112 - INFO - (array([ 0.99963528,  0.16353529]), array([ 0.99879712,  0.39222222]), array([ 0.99921603,  0.23082791]), array([13509300,     8100]))
+[2015-12-29 14:41:45,255] - main_cnsnwight_roc_cmd.linktest1file.113 - INFO - cn_node_weight2 myth2.02926807
+[2015-12-29 14:41:45,255] - main_cnsnwight_roc_cmd.linktest1file.114 - INFO - cn_node_weight2 f10.23082791
+[2015-12-29 14:41:45,255] - main_cnsnwight_roc_cmd.linktest1file.115 - INFO - ******************
+
+
+[2015-12-29 14:41:58,246] - main_cnsnwight_roc_cmd.linktest1file.112 - INFO - (array([ 0.99963543,  0.16355405]), array([ 0.99879653,  0.39246914]), array([ 0.9992158 ,  0.23088935]), array([13509300,     8100]))
+[2015-12-29 14:41:58,247] - main_cnsnwight_roc_cmd.linktest1file.113 - INFO - cn_node_weight2 myth2.02369912
+[2015-12-29 14:41:58,247] - main_cnsnwight_roc_cmd.linktest1file.114 - INFO - cn_node_weight2 f10.23088935
+[2015-12-29 14:41:58,247] - main_cnsnwight_roc_cmd.linktest1file.115 - INFO - ******************
+
+
+[2015-12-29 14:42:11,220] - main_cnsnwight_roc_cmd.linktest1file.112 - INFO - (array([ 0.99963543,  0.16353722]), array([ 0.99879638,  0.39246914]), array([ 0.99921573,  0.23087258]), array([13509300,     8100]))
+[2015-12-29 14:42:11,220] - main_cnsnwight_roc_cmd.linktest1file.113 - INFO - cn_node_weight2 myth2.01539279
+[2015-12-29 14:42:11,220] - main_cnsnwight_roc_cmd.linktest1file.114 - INFO - cn_node_weight2 f10.23087258
+[2015-12-29 14:42:11,220] - main_cnsnwight_roc_cmd.linktest1file.115 - INFO - ******************
+
+
+[2015-12-29 14:42:15,265] - main_cnsnwight_roc_cmd.getbestthreshold.30 - INFO - tpr,fpr,a*************
+[2015-12-29 14:42:15,265] - main_cnsnwight_roc_cmd.getbestthreshold.31 - INFO - [  1.23456790e-04   5.67901235e-03   5.67901235e-03 ...,   4.54567901e-01
+   4.54567901e-01   1.00000000e+00]
+[2015-12-29 14:42:15,266] - main_cnsnwight_roc_cmd.getbestthreshold.32 - INFO - [  0.00000000e+00   0.00000000e+00   7.40230804e-08 ...,   2.41655748e-03
+   2.41729771e-03   1.00000000e+00]
+[2015-12-29 14:42:15,266] - main_cnsnwight_roc_cmd.getbestthreshold.35 - INFO - [  1.23456790e-05   5.67901235e-04   5.67161004e-04 ...,   2.12912153e-02
+   2.12838130e-02  -9.90000000e+00]
+[2015-12-29 14:42:15,267] - main_cnsnwight_roc_cmd.getbestthreshold.36 - INFO - tpr,fpr,a*************
+[2015-12-29 14:42:28,225] - main_cnsnwight_roc_cmd.linktest1file.123 - INFO - (array([ 0.99965269,  0.25338089]), array([ 0.99925622,  0.42098765]), array([ 0.99945442,  0.31635588]), array([13509300,     8100]))
+[2015-12-29 14:42:28,225] - main_cnsnwight_roc_cmd.linktest1file.124 - INFO - cn_edge_weight myth2.23244251
+[2015-12-29 14:42:28,225] - main_cnsnwight_roc_cmd.linktest1file.125 - INFO - cn_edge_weight f10.31635588
+[2015-12-29 14:42:28,225] - main_cnsnwight_roc_cmd.linktest1file.126 - INFO - ******************
+
+
+[2015-12-29 14:42:41,190] - main_cnsnwight_roc_cmd.linktest1file.123 - INFO - (array([ 0.99965269,  0.25334324]), array([ 0.99925607,  0.42098765]), array([ 0.99945434,  0.31632653]), array([13509300,     8100]))
+[2015-12-29 14:42:41,191] - main_cnsnwight_roc_cmd.linktest1file.124 - INFO - cn_edge_weight myth2.22397283
+[2015-12-29 14:42:41,191] - main_cnsnwight_roc_cmd.linktest1file.125 - INFO - cn_edge_weight f10.31632653
+[2015-12-29 14:42:41,191] - main_cnsnwight_roc_cmd.linktest1file.126 - INFO - ******************
+
+
+[2015-12-29 14:42:54,225] - main_cnsnwight_roc_cmd.linktest1file.123 - INFO - (array([ 0.99965476,  0.2475875 ]), array([ 0.99922661,  0.42444444]), array([ 0.99944064,  0.31274447]), array([13509300,     8100]))
+[2015-12-29 14:42:54,225] - main_cnsnwight_roc_cmd.linktest1file.124 - INFO - cn_edge_weight myth2.17147241
+[2015-12-29 14:42:54,225] - main_cnsnwight_roc_cmd.linktest1file.125 - INFO - cn_edge_weight f10.31274447
+[2015-12-29 14:42:54,225] - main_cnsnwight_roc_cmd.linktest1file.126 - INFO - ******************
+
+
+[2015-12-29 14:43:07,268] - main_cnsnwight_roc_cmd.linktest1file.123 - INFO - (array([ 0.99965475,  0.24609878]), array([ 0.99922039,  0.42444444]), array([ 0.99943752,  0.31155415]), array([13509300,     8100]))
+[2015-12-29 14:43:07,268] - main_cnsnwight_roc_cmd.linktest1file.124 - INFO - cn_edge_weight myth2.16868025
+[2015-12-29 14:43:07,268] - main_cnsnwight_roc_cmd.linktest1file.125 - INFO - cn_edge_weight f10.31155415
+[2015-12-29 14:43:07,268] - main_cnsnwight_roc_cmd.linktest1file.126 - INFO - ******************
+
+
+[2015-12-29 14:43:11,391] - main_cnsnwight_roc_cmd.getbestthreshold.30 - INFO - tpr,fpr,a*************
+[2015-12-29 14:43:11,392] - main_cnsnwight_roc_cmd.getbestthreshold.31 - INFO - [  1.23456790e-04   7.03703704e-03   7.40740741e-03 ...,   6.48148148e-01
+   6.78765432e-01   1.00000000e+00]
+[2015-12-29 14:43:11,393] - main_cnsnwight_roc_cmd.getbestthreshold.32 - INFO - [  0.00000000e+00   0.00000000e+00   1.48046161e-07 ...,   1.68653446e-02
+   2.88614510e-02   1.00000000e+00]
+[2015-12-29 14:43:11,393] - main_cnsnwight_roc_cmd.getbestthreshold.35 - INFO - [  1.23456790e-05   7.03703704e-04   7.39260279e-04 ...,  -1.03838631e-01
+  -2.20737967e-01  -9.90000000e+00]
+[2015-12-29 14:43:11,393] - main_cnsnwight_roc_cmd.getbestthreshold.36 - INFO - tpr,fpr,a*************
+[2015-12-29 14:43:17,869] - main_cnsnwight_roc_cmd.linktest1file.133 - INFO - (array([ 0.99961895,  0.23177717]), array([ 0.99927524,  0.36469136]), array([ 0.99944706,  0.28342528]), array([13509300,     8100]))
+[2015-12-29 14:43:24,340] - main_cnsnwight_roc_cmd.linktest1file.135 - INFO - sancn myth0.62360415
+[2015-12-29 14:43:24,340] - main_cnsnwight_roc_cmd.linktest1file.136 - INFO - sancn f10.28342528
+[2015-12-29 14:43:24,340] - main_cnsnwight_roc_cmd.linktest1file.137 - INFO - ******************
+
+
+[2015-12-29 14:43:30,822] - main_cnsnwight_roc_cmd.linktest1file.133 - INFO - (array([ 0.99961902,  0.23174653]), array([ 0.99927487,  0.36481481]), array([ 0.99944692,  0.28343964]), array([13509300,     8100]))
+[2015-12-29 14:43:37,293] - main_cnsnwight_roc_cmd.linktest1file.135 - INFO - sancn myth0.62358103
+[2015-12-29 14:43:37,293] - main_cnsnwight_roc_cmd.linktest1file.136 - INFO - sancn f10.28343964
+[2015-12-29 14:43:37,293] - main_cnsnwight_roc_cmd.linktest1file.137 - INFO - ******************
+
+
+[2015-12-29 14:43:43,790] - main_cnsnwight_roc_cmd.linktest1file.133 - INFO - (array([ 0.99961902,  0.23161938]), array([ 0.99927435,  0.36481481]), array([ 0.99944666,  0.28334452]), array([13509300,     8100]))
+[2015-12-29 14:43:50,279] - main_cnsnwight_roc_cmd.linktest1file.135 - INFO - sancn myth0.62337107
+[2015-12-29 14:43:50,279] - main_cnsnwight_roc_cmd.linktest1file.136 - INFO - sancn f10.28334452
+[2015-12-29 14:43:50,279] - main_cnsnwight_roc_cmd.linktest1file.137 - INFO - ******************
+
+
+[2015-12-29 14:43:56,759] - main_cnsnwight_roc_cmd.linktest1file.133 - INFO - (array([ 0.99961902,  0.23160122]), array([ 0.99927428,  0.36481481]), array([ 0.99944662,  0.28333094]), array([13509300,     8100]))
+[2015-12-29 14:44:03,247] - main_cnsnwight_roc_cmd.linktest1file.135 - INFO - sancn myth0.62320176
+[2015-12-29 14:44:03,247] - main_cnsnwight_roc_cmd.linktest1file.136 - INFO - sancn f10.28333094
+[2015-12-29 14:44:03,247] - main_cnsnwight_roc_cmd.linktest1file.137 - INFO - ******************
+
+
+[2015-12-29 14:44:07,375] - main_cnsnwight_roc_cmd.getbestthreshold.30 - INFO - tpr,fpr,a*************
+[2015-12-29 14:44:07,376] - main_cnsnwight_roc_cmd.getbestthreshold.31 - INFO - [  1.23456790e-04   3.70370370e-04   3.70370370e-04 ...,   6.64197531e-01
+   6.78765432e-01   1.00000000e+00]
+[2015-12-29 14:44:07,376] - main_cnsnwight_roc_cmd.getbestthreshold.32 - INFO - [  0.00000000e+00   0.00000000e+00   4.44138482e-07 ...,   2.87537474e-02
+   2.88614510e-02   1.00000000e+00]
+[2015-12-29 14:44:07,377] - main_cnsnwight_roc_cmd.getbestthreshold.35 - INFO - [  1.23456790e-05   3.70370370e-05   3.25956522e-05 ...,  -2.21117721e-01
+  -2.20737967e-01  -9.90000000e+00]
+[2015-12-29 14:44:07,377] - main_cnsnwight_roc_cmd.getbestthreshold.36 - INFO - tpr,fpr,a*************
+[2015-12-29 14:44:13,856] - main_cnsnwight_roc_cmd.linktest1file.145 - INFO - (array([ 0.99940542,  0.19384615]), array([ 0.99998061,  0.00777778]), array([ 0.99969293,  0.01495549]), array([13509300,     8100]))
+[2015-12-29 14:44:20,331] - main_cnsnwight_roc_cmd.linktest1file.147 - INFO - sancn_node_weight myth0.23367622
+[2015-12-29 14:44:20,332] - main_cnsnwight_roc_cmd.linktest1file.148 - INFO - sancn_node_weight f10.01495549
+[2015-12-29 14:44:20,332] - main_cnsnwight_roc_cmd.linktest1file.149 - INFO - ******************
+
+
+[2015-12-29 14:44:26,821] - main_cnsnwight_roc_cmd.linktest1file.145 - INFO - (array([ 0.99940549,  0.19335347]), array([ 0.99998024,  0.00790123]), array([ 0.99969278,  0.01518207]), array([13509300,     8100]))
+[2015-12-29 14:44:33,293] - main_cnsnwight_roc_cmd.linktest1file.147 - INFO - sancn_node_weight myth0.23342529
+[2015-12-29 14:44:33,293] - main_cnsnwight_roc_cmd.linktest1file.148 - INFO - sancn_node_weight f10.01518207
+[2015-12-29 14:44:33,293] - main_cnsnwight_roc_cmd.linktest1file.149 - INFO - ******************
+
+
+[2015-12-29 14:44:39,781] - main_cnsnwight_roc_cmd.linktest1file.145 - INFO - (array([ 0.99940549,  0.19219219]), array([ 0.99998009,  0.00790123]), array([ 0.99969271,  0.01517847]), array([13509300,     8100]))
+[2015-12-29 14:44:46,253] - main_cnsnwight_roc_cmd.linktest1file.147 - INFO - sancn_node_weight myth0.23304994
+[2015-12-29 14:44:46,253] - main_cnsnwight_roc_cmd.linktest1file.148 - INFO - sancn_node_weight f10.01517847
+[2015-12-29 14:44:46,254] - main_cnsnwight_roc_cmd.linktest1file.149 - INFO - ******************
+
+
+[2015-12-29 14:44:52,730] - main_cnsnwight_roc_cmd.linktest1file.145 - INFO - (array([ 0.99940549,  0.18991098]), array([ 0.99997979,  0.00790123]), array([ 0.99969256,  0.01517127]), array([13509300,     8100]))
+[2015-12-29 14:44:59,200] - main_cnsnwight_roc_cmd.linktest1file.147 - INFO - sancn_node_weight myth0.23138634
+[2015-12-29 14:44:59,200] - main_cnsnwight_roc_cmd.linktest1file.148 - INFO - sancn_node_weight f10.01517127
+[2015-12-29 14:44:59,200] - main_cnsnwight_roc_cmd.linktest1file.149 - INFO - ******************
+
+
+[2015-12-29 14:45:03,386] - main_cnsnwight_roc_cmd.getbestthreshold.30 - INFO - tpr,fpr,a*************
+[2015-12-29 14:45:03,386] - main_cnsnwight_roc_cmd.getbestthreshold.31 - INFO - [  1.23456790e-04   4.93827160e-04   4.93827160e-04 ...,   6.48148148e-01
+   6.78765432e-01   1.00000000e+00]
+[2015-12-29 14:45:03,387] - main_cnsnwight_roc_cmd.getbestthreshold.32 - INFO - [  0.00000000e+00   1.48046161e-07   2.22069241e-07 ...,   1.68653446e-02
+   2.88614510e-02   1.00000000e+00]
+[2015-12-29 14:45:03,387] - main_cnsnwight_roc_cmd.getbestthreshold.35 - INFO - [  1.23456790e-05   4.79022544e-05   4.71620236e-05 ...,  -1.03838631e-01
+  -2.20737967e-01  -9.90000000e+00]
+[2015-12-29 14:45:03,387] - main_cnsnwight_roc_cmd.getbestthreshold.36 - INFO - tpr,fpr,a*************
+[2015-12-29 14:45:09,888] - main_cnsnwight_roc_cmd.linktest1file.158 - INFO - (array([ 0.99964629,  0.14315835]), array([ 0.99852598,  0.41074074]), array([ 0.99908582,  0.21231653]), array([13509300,     8100]))
+[2015-12-29 14:45:16,410] - main_cnsnwight_roc_cmd.linktest1file.160 - INFO - sancn_node_weight2 myth25.73672347
+[2015-12-29 14:45:16,410] - main_cnsnwight_roc_cmd.linktest1file.161 - INFO - cn_node_weight2 f10.21231653
+[2015-12-29 14:45:16,410] - main_cnsnwight_roc_cmd.linktest1file.162 - INFO - ******************
+
+
+[2015-12-29 14:45:22,919] - main_cnsnwight_roc_cmd.linktest1file.158 - INFO - (array([ 0.99964629,  0.14313371]), array([ 0.99852568,  0.41074074]), array([ 0.99908567,  0.21228943]), array([13509300,     8100]))
+[2015-12-29 14:45:29,456] - main_cnsnwight_roc_cmd.linktest1file.160 - INFO - sancn_node_weight2 myth25.66297287
+[2015-12-29 14:45:29,457] - main_cnsnwight_roc_cmd.linktest1file.161 - INFO - cn_node_weight2 f10.21228943
+[2015-12-29 14:45:29,457] - main_cnsnwight_roc_cmd.linktest1file.162 - INFO - ******************
+
+
+[2015-12-29 14:45:35,968] - main_cnsnwight_roc_cmd.linktest1file.158 - INFO - (array([ 0.99964629,  0.14312755]), array([ 0.99852561,  0.41074074]), array([ 0.99908564,  0.21228266]), array([13509300,     8100]))
+[2015-12-29 14:45:42,479] - main_cnsnwight_roc_cmd.linktest1file.160 - INFO - sancn_node_weight2 myth25.63784068
+[2015-12-29 14:45:42,479] - main_cnsnwight_roc_cmd.linktest1file.161 - INFO - cn_node_weight2 f10.21228266
+[2015-12-29 14:45:42,479] - main_cnsnwight_roc_cmd.linktest1file.162 - INFO - ******************
+
+
+[2015-12-29 14:45:49,019] - main_cnsnwight_roc_cmd.linktest1file.158 - INFO - (array([ 0.99966117,  0.13101912]), array([ 0.99826742,  0.43567901]), array([ 0.99896381,  0.20145569]), array([13509300,     8100]))
+[2015-12-29 14:45:55,528] - main_cnsnwight_roc_cmd.linktest1file.160 - INFO - sancn_node_weight2 myth22.39747836
+[2015-12-29 14:45:55,529] - main_cnsnwight_roc_cmd.linktest1file.161 - INFO - cn_node_weight2 f10.20145569
+[2015-12-29 14:45:55,529] - main_cnsnwight_roc_cmd.linktest1file.162 - INFO - ******************
+
+
+[2015-12-29 14:45:59,671] - main_cnsnwight_roc_cmd.getbestthreshold.30 - INFO - tpr,fpr,a*************
+[2015-12-29 14:45:59,672] - main_cnsnwight_roc_cmd.getbestthreshold.31 - INFO - [  1.23456790e-04   5.43209877e-03   5.43209877e-03 ...,   6.78765432e-01
+   6.78765432e-01   1.00000000e+00]
+[2015-12-29 14:45:59,672] - main_cnsnwight_roc_cmd.getbestthreshold.32 - INFO - [  0.00000000e+00   0.00000000e+00   7.40230804e-08 ...,   2.85220552e-02
+   2.88614510e-02   1.00000000e+00]
+[2015-12-29 14:45:59,673] - main_cnsnwight_roc_cmd.getbestthreshold.35 - INFO - [  1.23456790e-05   5.43209877e-04   5.42469646e-04 ...,  -2.17344009e-01
+  -2.20737967e-01  -9.90000000e+00]
+[2015-12-29 14:45:59,673] - main_cnsnwight_roc_cmd.getbestthreshold.36 - INFO - tpr,fpr,a*************
+[2015-12-29 14:46:12,641] - main_cnsnwight_roc_cmd.linktest1file.172 - INFO - (array([ 0.99964202,  0.23661523]), array([ 0.99922002,  0.40320988]), array([ 0.99943098,  0.29822399]), array([13509300,     8100]))
+[2015-12-29 14:46:12,641] - main_cnsnwight_roc_cmd.linktest1file.173 - INFO - sancn_edge_weight myth3.30478138
+[2015-12-29 14:46:12,641] - main_cnsnwight_roc_cmd.linktest1file.174 - INFO - sancn_edge_weight f10.29822399
+[2015-12-29 14:46:12,641] - main_cnsnwight_roc_cmd.linktest1file.175 - INFO - ******************
+
+
+[2015-12-29 14:46:26,238] - main_cnsnwight_roc_cmd.linktest1file.172 - INFO - (array([ 0.9996421 ,  0.23653345]), array([ 0.99921943,  0.40333333]), array([ 0.99943072,  0.29819277]), array([13509300,     8100]))
+[2015-12-29 14:46:26,238] - main_cnsnwight_roc_cmd.linktest1file.173 - INFO - sancn_edge_weight myth3.30208428
+[2015-12-29 14:46:26,238] - main_cnsnwight_roc_cmd.linktest1file.174 - INFO - sancn_edge_weight f10.29819277
+[2015-12-29 14:46:26,238] - main_cnsnwight_roc_cmd.linktest1file.175 - INFO - ******************
+
+
+[2015-12-29 14:46:39,823] - main_cnsnwight_roc_cmd.linktest1file.172 - INFO - (array([ 0.99964224,  0.23604592]), array([ 0.99921684,  0.40358025]), array([ 0.99942949,  0.29787234]), array([13509300,     8100]))
+[2015-12-29 14:46:39,823] - main_cnsnwight_roc_cmd.linktest1file.173 - INFO - sancn_edge_weight myth3.29611590
+[2015-12-29 14:46:39,823] - main_cnsnwight_roc_cmd.linktest1file.174 - INFO - sancn_edge_weight f10.29787234
+[2015-12-29 14:46:39,823] - main_cnsnwight_roc_cmd.linktest1file.175 - INFO - ******************
+
+
+[2015-12-29 14:46:53,362] - main_cnsnwight_roc_cmd.linktest1file.172 - INFO - (array([ 0.99964224,  0.2359948 ]), array([ 0.99921661,  0.40358025]), array([ 0.99942938,  0.29783163]), array([13509300,     8100]))
+[2015-12-29 14:46:53,362] - main_cnsnwight_roc_cmd.linktest1file.173 - INFO - sancn_edge_weight myth3.29240486
+[2015-12-29 14:46:53,362] - main_cnsnwight_roc_cmd.linktest1file.174 - INFO - sancn_edge_weight f10.29783163
+[2015-12-29 14:46:53,362] - main_cnsnwight_roc_cmd.linktest1file.175 - INFO - ******************
+
+
+[2015-12-29 14:46:53,362] - main_cnsnwight_roc_cmd.linktest1file.177 - DEBUG - cnroc_auc=0.72641308,cn_node_weight=0.72614031,cn_node_weight2=0.72637425,cn_edge_weight=0.72652077,
+[2015-12-29 14:46:53,362] - main_cnsnwight_roc_cmd.linktest1file.178 - DEBUG - cnroc_auc=0.83280635,cn_node_weight=0.82133755,cn_node_weight2=0.83266363,cn_edge_weight=0.83346217,

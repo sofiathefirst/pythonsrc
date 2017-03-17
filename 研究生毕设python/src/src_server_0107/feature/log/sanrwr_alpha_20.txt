@@ -1,0 +1,9 @@
+[2015-12-31 14:42:49,869] - sanrwr_a.linktest78file.34 - DEBUG - 
+
+***************************
+
+
+[2015-12-31 14:42:49,869] - sanrwr_a.linktest78file.35 - DEBUG - step=10 alphas=0.9
+[2016-01-03 11:52:34,718] - sanrwr_a.linktest78file.67 - DEBUG - rwr auc = 0.90250682
+[2016-01-03 11:52:39,950] - sanrwr_a.linktest78file.71 - DEBUG - rwr wsn auc = 0.90911961
+[2016-01-03 11:53:07,790] - sanrwr_a.linktest78file.85 - DEBUG - [[0.93], [0.90250681895863383], [0.90911961000093577]]

@@ -1,0 +1,7 @@
+
+ 1. midfile/
+ nohup ./midfile.sh > midfile.txt 2>&1 &
+2.feature/
+ nohup ./feature.sh > feature.txt 2>&1 &
+3.svm_exp/
+ nohup ./svmexp.sh  > svmexp.txt 2>&1 &

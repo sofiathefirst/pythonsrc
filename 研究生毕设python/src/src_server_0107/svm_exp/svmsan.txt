@@ -1,0 +1,2 @@
+/usr/local/lib/python2.7/dist-packages/sklearn/svm/base.py:85: DeprecationWarning: gamma=0.0 has been deprecated in favor of gamma='auto' as of 0.17. Backward compatibility for gamma=0.0 will be removed in 0.18
+  DeprecationWarning)

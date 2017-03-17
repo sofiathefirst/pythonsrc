@@ -1,0 +1,121 @@
+[2016-01-07 09:29:47,940] - main_san.<module>.146 - INFO - [(14124, 12), (23181, 12)]
+[2016-01-07 09:29:47,942] - main_san.<module>.153 - INFO - ****************
+
+uclos = [cn,aa,path,rwr]
+[2016-01-07 09:29:57,943] - main_san.<module>.161 - INFO - SVM.SVC* training over****************
+[2016-01-07 09:29:59,460] - main_san.<module>.166 - INFO - gamma = 0.25 ,
+[2016-01-07 09:29:59,460] - main_san.<module>.167 - INFO - ROC curve (area = 0.75284959)
+[2016-01-07 09:30:09,037] - main_san.<module>.161 - INFO - SVM.SVC* training over****************
+[2016-01-07 09:30:10,549] - main_san.<module>.166 - INFO - gamma = 0.26 ,
+[2016-01-07 09:30:10,549] - main_san.<module>.167 - INFO - ROC curve (area = 0.75282610)
+[2016-01-07 09:30:19,990] - main_san.<module>.161 - INFO - SVM.SVC* training over****************
+[2016-01-07 09:30:21,465] - main_san.<module>.166 - INFO - gamma = 0.27 ,
+[2016-01-07 09:30:21,466] - main_san.<module>.167 - INFO - ROC curve (area = 0.75283784)
+[2016-01-07 09:30:30,359] - main_san.<module>.161 - INFO - SVM.SVC* training over****************
+[2016-01-07 09:30:31,815] - main_san.<module>.166 - INFO - gamma = 0.28 ,
+[2016-01-07 09:30:31,815] - main_san.<module>.167 - INFO - ROC curve (area = 0.75284704)
+[2016-01-07 09:30:40,937] - main_san.<module>.161 - INFO - SVM.SVC* training over****************
+[2016-01-07 09:30:42,376] - main_san.<module>.166 - INFO - gamma = 0.29 ,
+[2016-01-07 09:30:42,376] - main_san.<module>.167 - INFO - ROC curve (area = 0.75284293)
+[2016-01-07 09:30:51,401] - main_san.<module>.161 - INFO - SVM.SVC* training over****************
+[2016-01-07 09:30:52,827] - main_san.<module>.166 - INFO - gamma = 0.30 ,
+[2016-01-07 09:30:52,827] - main_san.<module>.167 - INFO - ROC curve (area = 0.75284779)
+[2016-01-07 09:31:01,601] - main_san.<module>.161 - INFO - SVM.SVC* training over****************
+[2016-01-07 09:31:03,018] - main_san.<module>.166 - INFO - gamma = 0.31 ,
+[2016-01-07 09:31:03,018] - main_san.<module>.167 - INFO - ROC curve (area = 0.75285485)
+[2016-01-07 09:31:11,468] - main_san.<module>.161 - INFO - SVM.SVC* training over****************
+[2016-01-07 09:31:12,861] - main_san.<module>.166 - INFO - gamma = 0.32 ,
+[2016-01-07 09:31:12,861] - main_san.<module>.167 - INFO - ROC curve (area = 0.75286417)
+[2016-01-07 09:31:21,750] - main_san.<module>.161 - INFO - SVM.SVC* training over****************
+[2016-01-07 09:31:23,144] - main_san.<module>.166 - INFO - gamma = 0.33 ,
+[2016-01-07 09:31:23,144] - main_san.<module>.167 - INFO - ROC curve (area = 0.75287770)
+[2016-01-07 09:31:31,695] - main_san.<module>.161 - INFO - SVM.SVC* training over****************
+[2016-01-07 09:31:33,072] - main_san.<module>.166 - INFO - gamma = 0.34 ,
+[2016-01-07 09:31:33,072] - main_san.<module>.167 - INFO - ROC curve (area = 0.75289009)
+[2016-01-07 09:31:41,262] - main_san.<module>.161 - INFO - SVM.SVC* training over****************
+[2016-01-07 09:31:42,616] - main_san.<module>.166 - INFO - gamma = 0.35 ,
+[2016-01-07 09:31:42,616] - main_san.<module>.167 - INFO - ROC curve (area = 0.75288123)
+[2016-01-07 09:31:50,760] - main_san.<module>.161 - INFO - SVM.SVC* training over****************
+[2016-01-07 09:31:52,110] - main_san.<module>.166 - INFO - gamma = 0.36 ,
+[2016-01-07 09:31:52,110] - main_san.<module>.167 - INFO - ROC curve (area = 0.75287776)
+[2016-01-07 09:32:00,491] - main_san.<module>.161 - INFO - SVM.SVC* training over****************
+[2016-01-07 09:32:01,836] - main_san.<module>.166 - INFO - gamma = 0.37 ,
+[2016-01-07 09:32:01,836] - main_san.<module>.167 - INFO - ROC curve (area = 0.75287759)
+[2016-01-07 09:32:09,706] - main_san.<module>.161 - INFO - SVM.SVC* training over****************
+[2016-01-07 09:32:11,033] - main_san.<module>.166 - INFO - gamma = 0.38 ,
+[2016-01-07 09:32:11,033] - main_san.<module>.167 - INFO - ROC curve (area = 0.75296287)
+[2016-01-07 09:32:11,033] - main_san.<module>.171 - INFO - uclos =  [cn_node,aa_node,path,wrwr]
+[2016-01-07 09:32:26,600] - main_san.<module>.179 - INFO - SVM.SVC* training over****************
+[2016-01-07 09:32:28,931] - main_san.<module>.184 - INFO - gamma = 0.55 ,
+[2016-01-07 09:32:28,931] - main_san.<module>.185 - INFO - ROC curve (area = 0.64226834)
+[2016-01-07 09:32:44,203] - main_san.<module>.179 - INFO - SVM.SVC* training over****************
+[2016-01-07 09:32:46,449] - main_san.<module>.184 - INFO - gamma = 0.56 ,
+[2016-01-07 09:32:46,449] - main_san.<module>.185 - INFO - ROC curve (area = 0.63814965)
+[2016-01-07 09:33:01,739] - main_san.<module>.179 - INFO - SVM.SVC* training over****************
+[2016-01-07 09:33:03,977] - main_san.<module>.184 - INFO - gamma = 0.57 ,
+[2016-01-07 09:33:03,977] - main_san.<module>.185 - INFO - ROC curve (area = 0.64254403)
+[2016-01-07 09:33:18,706] - main_san.<module>.179 - INFO - SVM.SVC* training over****************
+[2016-01-07 09:33:20,940] - main_san.<module>.184 - INFO - gamma = 0.58 ,
+[2016-01-07 09:33:20,940] - main_san.<module>.185 - INFO - ROC curve (area = 0.63979124)
+[2016-01-07 09:33:35,492] - main_san.<module>.179 - INFO - SVM.SVC* training over****************
+[2016-01-07 09:33:37,846] - main_san.<module>.184 - INFO - gamma = 0.59 ,
+[2016-01-07 09:33:37,846] - main_san.<module>.185 - INFO - ROC curve (area = 0.64955777)
+[2016-01-07 09:33:52,519] - main_san.<module>.179 - INFO - SVM.SVC* training over****************
+[2016-01-07 09:33:54,807] - main_san.<module>.184 - INFO - gamma = 0.60 ,
+[2016-01-07 09:33:54,807] - main_san.<module>.185 - INFO - ROC curve (area = 0.63941488)
+[2016-01-07 09:34:09,834] - main_san.<module>.179 - INFO - SVM.SVC* training over****************
+[2016-01-07 09:34:12,129] - main_san.<module>.184 - INFO - gamma = 0.61 ,
+[2016-01-07 09:34:12,129] - main_san.<module>.185 - INFO - ROC curve (area = 0.64287925)
+[2016-01-07 09:34:27,243] - main_san.<module>.179 - INFO - SVM.SVC* training over****************
+[2016-01-07 09:34:29,477] - main_san.<module>.184 - INFO - gamma = 0.62 ,
+[2016-01-07 09:34:29,477] - main_san.<module>.185 - INFO - ROC curve (area = 0.64303576)
+[2016-01-07 09:34:44,425] - main_san.<module>.179 - INFO - SVM.SVC* training over****************
+[2016-01-07 09:34:46,626] - main_san.<module>.184 - INFO - gamma = 0.63 ,
+[2016-01-07 09:34:46,626] - main_san.<module>.185 - INFO - ROC curve (area = 0.64264591)
+[2016-01-07 09:35:01,655] - main_san.<module>.179 - INFO - SVM.SVC* training over****************
+[2016-01-07 09:35:03,853] - main_san.<module>.184 - INFO - gamma = 0.64 ,
+[2016-01-07 09:35:03,853] - main_san.<module>.185 - INFO - ROC curve (area = 0.64133261)
+[2016-01-07 09:35:18,517] - main_san.<module>.179 - INFO - SVM.SVC* training over****************
+[2016-01-07 09:35:20,715] - main_san.<module>.184 - INFO - gamma = 0.65 ,
+[2016-01-07 09:35:20,715] - main_san.<module>.185 - INFO - ROC curve (area = 0.63269620)
+[2016-01-07 09:35:20,715] - main_san.<module>.189 - INFO - uclos =  [cn_edge,aa_edge,path,wrwr]
+[2016-01-07 09:35:47,820] - main_san.<module>.197 - INFO - SVM.SVC* training over****************
+[2016-01-07 09:35:51,906] - main_san.<module>.202 - INFO - gamma = 0.05 ,
+[2016-01-07 09:35:51,906] - main_san.<module>.203 - INFO - ROC curve (area = 0.61403550)
+[2016-01-07 09:36:17,224] - main_san.<module>.197 - INFO - SVM.SVC* training over****************
+[2016-01-07 09:36:21,008] - main_san.<module>.202 - INFO - gamma = 0.06 ,
+[2016-01-07 09:36:21,008] - main_san.<module>.203 - INFO - ROC curve (area = 0.61244182)
+[2016-01-07 09:36:46,089] - main_san.<module>.197 - INFO - SVM.SVC* training over****************
+[2016-01-07 09:36:49,651] - main_san.<module>.202 - INFO - gamma = 0.07 ,
+[2016-01-07 09:36:49,651] - main_san.<module>.203 - INFO - ROC curve (area = 0.60505744)
+[2016-01-07 09:37:12,834] - main_san.<module>.197 - INFO - SVM.SVC* training over****************
+[2016-01-07 09:37:16,222] - main_san.<module>.202 - INFO - gamma = 0.08 ,
+[2016-01-07 09:37:16,222] - main_san.<module>.203 - INFO - ROC curve (area = 0.60689354)
+[2016-01-07 09:37:38,042] - main_san.<module>.197 - INFO - SVM.SVC* training over****************
+[2016-01-07 09:37:41,321] - main_san.<module>.202 - INFO - gamma = 0.09 ,
+[2016-01-07 09:37:41,321] - main_san.<module>.203 - INFO - ROC curve (area = 0.60607527)
+[2016-01-07 09:38:02,307] - main_san.<module>.197 - INFO - SVM.SVC* training over****************
+[2016-01-07 09:38:05,461] - main_san.<module>.202 - INFO - gamma = 0.10 ,
+[2016-01-07 09:38:05,461] - main_san.<module>.203 - INFO - ROC curve (area = 0.60507115)
+[2016-01-07 09:38:25,156] - main_san.<module>.197 - INFO - SVM.SVC* training over****************
+[2016-01-07 09:38:28,237] - main_san.<module>.202 - INFO - gamma = 0.11 ,
+[2016-01-07 09:38:28,237] - main_san.<module>.203 - INFO - ROC curve (area = 0.61304828)
+[2016-01-07 09:38:49,491] - main_san.<module>.197 - INFO - SVM.SVC* training over****************
+[2016-01-07 09:38:52,472] - main_san.<module>.202 - INFO - gamma = 0.12 ,
+[2016-01-07 09:38:52,473] - main_san.<module>.203 - INFO - ROC curve (area = 0.61836137)
+[2016-01-07 09:39:12,072] - main_san.<module>.197 - INFO - SVM.SVC* training over****************
+[2016-01-07 09:39:14,977] - main_san.<module>.202 - INFO - gamma = 0.13 ,
+[2016-01-07 09:39:14,977] - main_san.<module>.203 - INFO - ROC curve (area = 0.62273723)
+[2016-01-07 09:39:33,823] - main_san.<module>.197 - INFO - SVM.SVC* training over****************
+[2016-01-07 09:39:36,624] - main_san.<module>.202 - INFO - gamma = 0.14 ,
+[2016-01-07 09:39:36,624] - main_san.<module>.203 - INFO - ROC curve (area = 0.62796978)
+[2016-01-07 09:39:54,483] - main_san.<module>.197 - INFO - SVM.SVC* training over****************
+[2016-01-07 09:39:57,241] - main_san.<module>.202 - INFO - gamma = 0.15 ,
+[2016-01-07 09:39:57,241] - main_san.<module>.203 - INFO - ROC curve (area = 0.63714710)
+[2016-01-07 09:39:57,241] - main_san.<module>.208 - INFO - uclos =  [cn,cn_node,cn_edge,aa,aa_node,aa_edge,path,wrwr]
+[2016-01-07 09:40:28,535] - main_san.<module>.217 - INFO - SVM.SVC* training over****************
+[2016-01-07 09:40:33,269] - main_san.<module>.222 - INFO - gamma = 0.00 ,
+[2016-01-07 09:40:33,270] - main_san.<module>.223 - INFO - ROC curve (area = 0.51103818)
+[2016-01-07 09:41:10,005] - main_san.<module>.217 - INFO - SVM.SVC* training over****************
+[2016-01-07 09:41:15,111] - main_san.<module>.222 - INFO - gamma = 0.10 ,
+[2016-01-07 09:41:15,111] - main_san.<module>.223 - INFO - ROC curve (area = 0.51523781)

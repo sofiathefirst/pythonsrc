@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "sanrwr_a.py", line 95, in <module>
+    linktest78file()
+  File "sanrwr_a.py", line 37, in linktest78file
+    pkl_file = open(pklfile, 'rb')
+IOError: [Errno 2] No such file or directory: '../data/jul3nets.pkl0.9320sanrwr'
