@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+# -*- coding:utf-8 -*-
 from math import fabs
 x=100
 '''
@@ -15,6 +17,7 @@ print x,y,dy
 
 
 x_n+1=x_n-f(x_n)/df(x_n)
+迭代的策略主要体现在如何选择下降方向，以及如何选择步长两个方面。主要有 Gauss-Newton （GN）法和 Levenberg-Marquardt （LM）法两种，它们的细节可以在维基上找到，我们不细说。请理解它们主要在迭代策略上有所不同，但是寻找梯度并迭代则是一样的。
 '''
 
 y=x*x-4*x+3
