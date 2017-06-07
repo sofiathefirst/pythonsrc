@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<mavlink>
+  <version>2</version>
+  <enums/>
+  <messages>
+    <message id="150" name="ENABLEPOWER">
+      <description>The ENABLEPOWER message which can make robot with eletric power on or off</description>
+      <field type="uint8_t" name="powerswitch">boolean: 0: off, 1: on</field>
+      <field type="uint8_t_mavlink_version" name="mavlink_version">MAVLink version</field>
+    </message>
+    <message id="151" name="ENABLEMOTOR">
+      <description>The ENABLEMOTOR message which enable eletric motor to move</description>
+      <field type="uint8_t" name="motorswitch">boolean: 0: disable, 1: enable</field>
+      <field type="uint8_t_mavlink_version" name="mavlink_version">MAVLink version</field>
+    </message>
+    <message id="152" name="CENTERFLYWHEEL">
+      <description>The CENTERFLYWHEEL message which reset fly wheel to center</description>
+      <field type="uint8_t" name="centerswitch">boolean: 0: disable, 1: enable</field>
+      <field type="uint8_t_mavlink_version" name="mavlink_version">MAVLink version</field>
+    </message>
+    <message id="153" name="CROSSOBSTACLE">
+      <description>The CROSSOBSTACLE message which make robot cross obstacle</description>
+      <field type="uint8_t" name="crossswitch">boolean: 0: disable, 1: enable</field>
+      <field type="uint8_t_mavlink_version" name="mavlink_version">MAVLink version</field>
+    </message>
+    <message id="154" name="ROTATEHEAD">
+      <description>The ROTATEHEAD message which rotate robot's head in clockwise or in anticlockwise</description>
+      <field type="float" name="rotateswitch">a float number between -1 and 1, negative number indicate  head in clockwise rotation otherwise in anticlockwise</field>
+      <field type="uint8_t_mavlink_version" name="mavlink_version">MAVLink version</field>
+    </message>
+    <message id="155" name="SWAYHEAD">
+      <description>The CENTERFLYWHEEL message which reset fly wheel to center</description>
+      <field type="float" name="swayswitch">the number  -1 0 1, negative number indicate  shaking robot's head and 1  nod its head</field>
+      <field type="uint8_t_mavlink_version" name="mavlink_version">MAVLink version</field>
+    </message>
+    <message id="156" name="MIGRATEDIRECTION">
+      <description>The MigrateDirection message which make robot migrates in diffirent direction with diffirent speed</description>
+      <field type="float" name="horizontalmove">a float number between -1 and 1, negative number indicate  robot move to left with 0.x speed otherwise robot move to right</field>
+      <field type="float" name="veticalmove">a float number between -1 and 1, negative number indicate  move to backend with 0.y speed otherwise to
+foward </field>
+      <field type="uint8_t_mavlink_version" name="mavlink_version">MAVLink version</field>
+    </message>
+  </messages>
+</mavlink>
